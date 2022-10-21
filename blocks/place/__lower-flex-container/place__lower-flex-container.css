@@ -10,19 +10,19 @@
 
 @media all and (max-width: 1279px) {
   .place__lower-flex-container {
-    gap: 0 32px;
+    column-gap: 32px;
   }
 }
 
 @media all and (max-width: 1023px) {
   .place__lower-flex-container {
-    gap: 0 28px;
+    column-gap: 28px;
   }
 }
 
 @media all and (max-width: 767px) {
   .place__lower-flex-container {
     flex-direction: column;
-    gap: 32px 0;
+    row-gap: 32px;
   }
 }

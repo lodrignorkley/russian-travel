@@ -3,7 +3,8 @@
   font-size: 12px;
   line-height: 170%;
   letter-spacing: 2px;
-  color: #AAAAAA;
+  color: #AAA;
+  text-transform: uppercase;
 }
 
 @media all and (max-width: 1023px) {
