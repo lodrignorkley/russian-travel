@@ -23,4 +23,4 @@
 Удачи!
 
 
-[Ссылка на выполненный макет](https://lodrignorkley.github.io/russian-travel/)
+[ССЫЛКА на выполненный макет](https://lodrignorkley.github.io/russian-travel/)
