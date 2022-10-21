@@ -1,0 +1,44 @@
+@import url('../vendor/styles/normalize.css');                             /*NORMALIZE*/
+@import url('../vendor/fonts/fonts.css');                                  /*ШРИФТЫ*/
+@import url('../blocks/centering/centering.css');                          /*ЦЕНТРИРОВАНИЕ КОНТЕНТА СТРАНИЦЫ*/
+@import url('../blocks/page/page.css');                                    /*БЛОК PAGE*/
+@import url('../blocks/header/header.css');                                /*СЕКЦИЯ HEADER. НАЧАЛО*/
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/header/__lang-links/header__lang-links.css');
+@import url('../blocks/header/__lang-link/header__lang-link.css');         /*СЕКЦИЯ HEADER. КОНЕЦ*/
+@import url('../blocks/lead/lead.css');                                    /*СЕКЦИЯ LEAD. НАЧАЛО*/
+@import url('../blocks/lead/__title/lead__title.css');
+@import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__figcap/figcap.css');
+@import url('../blocks/lead/__image/lead__image.css');
+@import url('../blocks/lead/__caption/lead__caption.css');                /*СЕКЦИЯ LEAD. КОНЕЦ*/
+@import url('../blocks/intro/intro.css');                                 /*СЕКЦИЯ INTRO. НАЧАЛО*/
+@import url('../blocks/intro/__title/intro__title.css');
+@import url('../blocks/intro/__text/intro__text.css');
+@import url('../blocks/intro/__list/intro__list.css');
+@import url('../blocks/intro/__span-accent/intro__span-accent.css');      /*СЕКЦИЯ INTRO. КОНЕЦ*/
+@import url('../blocks/photo-grid/photo-grid.css');                       /*СЕКЦИЯ PHOTO-GRID. НАЧАЛО*/
+@import url('../blocks/photo-grid/__item/photo-grid__item.css');          /*СЕКЦИЯ PHOTO-GRID. КОНЕЦ*/
+@import url('../blocks/places/places.css');                               /*СЕКЦИЯ PLACES. НАЧАЛО*/
+@import url('../blocks/place/place.css');
+@import url('../blocks/place/__upper-flex-container/place__upper-flex-container.css');
+@import url('../blocks/place/__title/place__title.css');
+@import url('../blocks/place/__website/place__website.css');
+@import url('../blocks/place/__website/__url-heading/place__url-heading.css');
+@import url('../blocks/place/__website/__link/place__link.css');
+@import url('../blocks/place/__lower-flex-container/place__lower-flex-container.css');
+@import url('../blocks/place/__paragraphs/place__paragraphs.css');
+@import url('../blocks/place/__paragraph/place__paragraph.css');
+@import url('../blocks/place/__image-container/place__image-container.css');
+@import url('../blocks/place/__image/place__image.css');                 /*СЕКЦИЯ PLACES. КОНЕЦ*/
+@import url('../blocks/cover/cover.css');                                /*СЕКЦИЯ COVER. НАЧАЛО*/
+@import url('../blocks/cover/__wrapper/cover__wrapper.css');
+@import url('../blocks/cover/__image/cover__image.css');
+@import url('../blocks/cover/__title/cover__title.css');
+@import url('../blocks/cover/__subtitle/cover__subtitle.css');          /*СЕКЦИЯ COVER. КОНЕЦ*/
+@import url('../blocks/footer/footer.css');                             /*СЕКЦИЯ FOOTER. НАЧАЛО*/
+@import url('../blocks/footer/__links/footer__links.css');
+@import url('../blocks/footer/__link/footer__link.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');      /*СЕКЦИЯ FOOTER. КОНЕЦ*/
+
+

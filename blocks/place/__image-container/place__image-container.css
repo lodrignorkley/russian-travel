@@ -1,0 +1,10 @@
+.place__image-container {
+  flex-basis: 50%;
+  flex: 1;
+}
+
+@media all and (max-width: 767px) {
+  .place__image-container {
+    max-width: 100%;
+  }
+}

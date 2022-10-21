@@ -1,0 +1,28 @@
+.place__lower-flex-container {
+  max-width: 100%;
+  margin-top: 48px;
+  display: flex;
+  gap: 0 40px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex: 1;
+}
+
+@media all and (max-width: 1279px) {
+  .place__lower-flex-container {
+    gap: 0 32px;
+  }
+}
+
+@media all and (max-width: 1023px) {
+  .place__lower-flex-container {
+    gap: 0 28px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .place__lower-flex-container {
+    flex-direction: column;
+    gap: 32px 0;
+  }
+}

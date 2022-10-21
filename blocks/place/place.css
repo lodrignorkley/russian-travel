@@ -1,0 +1,10 @@
+.place {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.place:last-child {
+  padding-bottom: 0;
+}
+

@@ -1,0 +1,14 @@
+.place__paragraphs {
+  flex-basis: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 26px 0;
+  flex: 1;
+}
+
+@media all and (max-width: 767px) {
+  .place__paragraphs {
+    align-self: center;
+      max-width: 100%;
+  }
+}

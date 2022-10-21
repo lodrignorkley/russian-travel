@@ -1,0 +1,33 @@
+.footer {
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 92px;
+  padding-bottom: 24px;
+}
+
+@media all and (max-width: 1181px) {
+  .footer {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media all and (max-width: 1023px) {
+  .footer {
+    padding-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .footer {
+    max-width: 767px;
+    flex-direction: column;
+    padding-top: 64px;
+    padding-left: 16px;
+    padding-right: 16px;
+    gap: 48px 0;
+  }
+}

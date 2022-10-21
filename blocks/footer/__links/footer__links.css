@@ -1,0 +1,12 @@
+.footer__links {
+  display: flex;
+  gap: 0 18px;
+}
+
+@media all and (max-width: 768px) {
+  .footer__links {
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 32px 0;
+  }
+}
