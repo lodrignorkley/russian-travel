@@ -1,5 +1,5 @@
 .place__upper-flex-container {
-  max-width: 100%;
+  width: 100%;
   display: flex;
   gap: 0 40px;
   align-items: flex-end;

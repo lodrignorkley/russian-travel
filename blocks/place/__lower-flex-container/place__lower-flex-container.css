@@ -1,6 +1,5 @@
 .place__lower-flex-container {
   max-width: 100%;
-  margin-top: 48px;
   display: flex;
   gap: 0 40px;
   flex-wrap: wrap;
@@ -23,6 +22,6 @@
 @media all and (max-width: 767px) {
   .place__lower-flex-container {
     flex-direction: column;
-    row-gap: 32px;
+    row-gap: 22px;
   }
 }

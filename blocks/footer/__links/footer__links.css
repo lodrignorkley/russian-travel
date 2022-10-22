@@ -1,9 +1,9 @@
 .footer__links {
   display: flex;
-  gap: 0 18px;
+  gap: 0 19px;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
   .footer__links {
     flex-direction: column;
     flex-wrap: wrap;
