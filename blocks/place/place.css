@@ -13,6 +13,12 @@
 
 @media all and (max-width: 767px) {
   .place {
+<<<<<<< HEAD
     row-gap: 22px;
   }
 }
+=======
+    row-gap: 32px;
+  }
+}
+>>>>>>> 0b5ec0f3670cba37fcb6f4c1b9c5a88218c36cf2

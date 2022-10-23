@@ -25,6 +25,10 @@
   .place__website {
     flex-grow: 1;
     flex-basis: 100%;
+<<<<<<< HEAD
+=======
+    row-gap: 12px;
+>>>>>>> 0b5ec0f3670cba37fcb6f4c1b9c5a88218c36cf2
   }
 }
 
@@ -33,4 +37,8 @@
     padding-left: 16px;
     padding-right: 16px;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0b5ec0f3670cba37fcb6f4c1b9c5a88218c36cf2

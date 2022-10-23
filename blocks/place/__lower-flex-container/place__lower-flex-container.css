@@ -22,6 +22,12 @@
 @media all and (max-width: 767px) {
   .place__lower-flex-container {
     flex-direction: column;
+<<<<<<< HEAD
     row-gap: 22px;
   }
 }
+=======
+    row-gap: 12px;
+  }
+}
+>>>>>>> 0b5ec0f3670cba37fcb6f4c1b9c5a88218c36cf2
