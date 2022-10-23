@@ -1,0 +1,40 @@
+.place__title {
+  margin: 0;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+  flex: 0 1 460px;
+}
+
+@media all and (max-width: 1279px) {
+  .place__title {
+    flex-grow: 1;
+    flex-basis: 440px;
+  }
+}
+
+@media all and (max-width: 1023px) {
+  .place__title {
+    flex-grow: 1;
+    flex-basis: 340px;
+    font-size: 42px;
+    line-height: 46px;
+    letter-spacing: .8px;
+  } 
+}
+
+@media all and (max-width: 767px) {
+  .place__title {
+    flex-grow: 1;
+    flex-basis: 100%;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
+
+@media all and (max-width: 425px) {
+  .place__title {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
